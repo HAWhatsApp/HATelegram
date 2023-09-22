@@ -1,0 +1,11 @@
+Version 1.00. Changelog:
+
+> Updated source code to v9.7.4.0.
+> Added Story
+> Option to hide 'Saved messages' button from menu.
+> Option to hide slash bot button in chat.
+> SHAREABLE CHAT FOLDERS: Share up to 200 chats with one invite link.
+> CUSTOM WALLPAPERS: Set an individual wallpaper for any 1-on-1 chat. Your chat partner can apply the same wallpaper or choose their own.
+> BETTER BOTS: Launch web apps from any chat. Web apps in groups support collaboration and multiplayer features.
+> OTHER IMPROVEMENTS: Better downloads and video playback, improved SD card and Bluetooth headset support.
+> Bug fixes and other minor improvements
